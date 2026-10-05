@@ -35,4 +35,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Podaj hasło:" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword" />
 </LinearLayout>
