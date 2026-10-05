@@ -22,4 +22,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Podaj e-mail:" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress" />
 </LinearLayout>
