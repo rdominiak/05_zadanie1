@@ -48,4 +48,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Powtórz hasło:" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword" />
 </LinearLayout>
